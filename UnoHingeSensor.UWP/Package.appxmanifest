@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="67aa98cd-c237-470e-9cdf-3f3d7a7adf06"
+    Name="UnoHingeAngleSensorSample"
     Publisher="CN=com.example"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="52e8ccbf-875a-4728-b236-48bd4aa38eab" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>UnoHingeSensor</DisplayName>
+    <DisplayName>UnoHingeAngleSensorSample</DisplayName>
     <PublisherDisplayName>UnoHingeSensor</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -32,7 +32,7 @@
       Executable="UnoHingeSensor.exe"
       EntryPoint="UnoHingeSensor.App">
       <uap:VisualElements
-        DisplayName="UnoHingeSensor"
+        DisplayName="Uno Platform HingeAngleSensor Sample"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="UnoHingeSensor"
